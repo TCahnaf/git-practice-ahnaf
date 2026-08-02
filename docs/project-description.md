@@ -1,0 +1,1 @@
+This project showcases how simple calculator operations are handled via functions in Python. Python functions are simple and require less boilerplate code.
